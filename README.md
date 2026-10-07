@@ -83,7 +83,7 @@ Currently strengthening skills in:
 Open to internships, collaboration, and opportunities in **Software Quality Assurance and Test Automation**.
 
 * Email: [alviariyanfuad@gmail.com](mailto:alviariyanfuad@gmail.com)
-* GitHub: [github.com/cuditore](https://github.com/quditore)
+* GitHub: [github.com/cuditore](https://github.com/quditor)
 
 ---
 
